@@ -1,6 +1,6 @@
 
 app:
-  greeting: "Ciao"
+  greeting: "Catramazzo"
 
 server:
   port: 8102
